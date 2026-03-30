@@ -1,0 +1,16 @@
+{
+  "name": "my-skills",
+  "owner": {
+    "name": "gotchane",
+    "email": "originals0711@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "pr-review-assist",
+      "source": "./plugins/pr-review-assist",
+      "description": "PRレビューの理解速度と判断精度を向上させるスキル",
+      "version": "1.0.0",
+      "category": "code-quality"
+    }
+  ]
+}
