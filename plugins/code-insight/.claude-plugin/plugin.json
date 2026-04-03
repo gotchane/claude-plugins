@@ -1,0 +1,5 @@
+{
+  "name": "code-insight",
+  "description": "コミット前のdiffを読み、設計意図を「比較・思想・面白い仮説」の3点セットで解説するスキル",
+  "version": "1.0.0"
+}

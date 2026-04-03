@@ -11,6 +11,20 @@
       "description": "PRレビューの理解速度と判断精度を向上させるスキル",
       "version": "1.0.0",
       "category": "code-quality"
+    },
+    {
+      "name": "create-pr",
+      "source": "./plugins/create-pr",
+      "description": "git diffからPR descriptionを自動生成してgh pr create --webでブラウザを開くスキル",
+      "version": "1.0.0",
+      "category": "productivity"
+    },
+    {
+      "name": "code-insight",
+      "source": "./plugins/code-insight",
+      "description": "コミット前のdiffを読み、設計意図を「比較・思想・面白い仮説」の3点セットで解説するスキル",
+      "version": "1.0.0",
+      "category": "code-quality"
     }
   ]
 }

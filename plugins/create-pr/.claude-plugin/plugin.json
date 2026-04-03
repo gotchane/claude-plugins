@@ -1,0 +1,5 @@
+{
+  "name": "create-pr",
+  "description": "git diffからPR descriptionを自動生成してgh pr create --webでブラウザを開くスキル",
+  "version": "1.0.0"
+}
